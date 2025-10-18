@@ -36,7 +36,7 @@ To complete today’s practical, you should modify your script to allow the user
 ## Optional Extensions
 If you completed the practical, try these optional tasks during the peer learning session. 
 
-- Use Physics Materials to define additional physical properties of the ball, lane and skittles (see [here](https://docs.unity3d.com/2018.4/Documentation/Manual/class-PhysicMaterial.html))
+- Use Physics Materials to define additional physical properties of the ball, lane and skittles (see [here](https://docs.unity3d.com/6000.0/Documentation/Manual/class-PhysicsMaterial.html))
 - Use Kinematic Rigidbodies to add moving obstacles, similar to those found in the game Wii Sports Resort, to the bowling alley (watch a gameplay of that game [here](https://youtu.be/Ntv_QOGbXjo)).
 - Use the camera manipulation skills that you learned last week to create a dungeon crawler camera that follows the ball down the lane, as shown in [this](https://youtu.be/Fmv4YFL3jnQ) video
 - Write a script that uses the print function to display the number of pins that have been knocked over by the ball (using Debug.Log or print).
