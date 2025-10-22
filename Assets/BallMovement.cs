@@ -15,6 +15,7 @@ public class BallMovement : MonoBehaviour
     {
         
         Rigidbody rb = GetComponent<Rigidbody>();
+        //if(Input.GetKey(KeyCode.Spacebar))
         if(Input.GetKey(KeyCode.A)){
             position +=1;
         }
