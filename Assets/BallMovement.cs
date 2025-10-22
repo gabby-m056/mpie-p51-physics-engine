@@ -3,7 +3,7 @@ using UnityEngine;
 public class BallMovement : MonoBehaviour
 {
     public float speed = 10.0f;
-    public float position = 0.0f
+    public float position = 0.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
