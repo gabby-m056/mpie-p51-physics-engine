@@ -13,6 +13,6 @@ public class BallMovement : MonoBehaviour
     void Update()
     {
         Rigidbody rb = GetComponent<Rigidbody>();
-        rb.AddForce(new Vector3(0.0f, 0.0f,speed));
+        rb.AddForce(new Vector3(0.0f, 0.0f,-speed));
     }
 }
